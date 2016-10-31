@@ -8,7 +8,9 @@
  * Current Docker Toolbox version installed (1.12.x or later)
  * Latest version of JDK 8
  * Latest version of IntelliJ (trial version is OK)
+ * Keepass to access the [credentials](accounts.kdbx) required for the labs: [Win](http://keepass.info), [macOS](http://mstarke.github.io/MacPass), [Linux](http://keepass.info/help/v2/setup.html)
  * (optional) Account for Docker Hub
+ https://www.keepassx.org/downloads
 
 ## Module 0: Introduction ([slides](slides/00-intro.pptx))
 
